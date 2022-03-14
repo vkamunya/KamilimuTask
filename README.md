@@ -10,6 +10,9 @@ React is a popular JavaScript library used for front-end development projects. R
 
 React is component based which means that React divides the user interface into reusable pieces of code called components and one can have as many components as necessary.
 
-To create your first React project, you will need to initialize your React app with an npx comand on your terminal. This will create a folder that contains the necessary setup to run your react app.
+To create your first React project on your terminal, first navigate to the folder where you want to create your app.
+You will need to initialize your React app with an npx comand on your terminal. This will create a folder that contains the necessary setup to run your react app.
 
-![Screenshot (427)](https://user-images.githubusercontent.com/62050248/158178650-7a2d749c-bfec-495c-9876-d704593c9fc1.png)
+![Screenshot (428)](https://user-images.githubusercontent.com/62050248/158178890-e1f2e900-65fe-41a9-94bb-3030391a645d.png)
+
+

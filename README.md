@@ -17,6 +17,9 @@ You will need to initialize your React app with an npx comand on your terminal. 
 
 The npx command should be followed by the name you want to call your React Application. Allow some time for the project to build.
 
+![Screenshot (430)](https://user-images.githubusercontent.com/62050248/158181877-a5e1f956-0964-4fc7-8989-881fb70646b3.png)
+
+
 After completing intitialization, you should open the project using the .
 
 To run the app on your browser, use the npm run start command and thats it! Your first React Application.

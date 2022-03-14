@@ -21,7 +21,7 @@ The npx command should be followed by the name you want to call your React Appli
 
 To run the app on your browser, use the npm run start command and thats it! Your first React Application.
 
-![Uploading Screenshot (434).png…]()
+![Screenshot (430)](https://user-images.githubusercontent.com/62050248/158184128-d1a6e0c5-9cab-4a53-88b2-b1a3fb48dff6.png)
 
 ![Screenshot (433)](https://user-images.githubusercontent.com/62050248/158182785-7b11f1a5-4e2e-4c67-a513-403b629f0404.png)
 

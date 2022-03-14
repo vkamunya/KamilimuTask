@@ -19,10 +19,10 @@ The npx command should be followed by the name you want to call your React Appli
 
 ![Screenshot (430)](https://user-images.githubusercontent.com/62050248/158181877-a5e1f956-0964-4fc7-8989-881fb70646b3.png)
 
-
-After completing intitialization, you should open the project using the .
-
 To run the app on your browser, use the npm run start command and thats it! Your first React Application.
 
+![Uploading Screenshot (434).png…]()
+
+![Screenshot (433)](https://user-images.githubusercontent.com/62050248/158182785-7b11f1a5-4e2e-4c67-a513-403b629f0404.png)
 
 
